@@ -9,3 +9,24 @@ Include:
 
 Tone: simple, engaging, and persuasive
 Audience: local customers
+
+prompts/services_prompt.md
+Write service page content for a [business type].
+
+Include:
+- Service name
+- Description
+- Key benefits
+- Target audience
+Keep it clear and structured.
+
+
+prompts/cta_prompt.md
+Write strong CTA sections for a [business type].
+
+Include:
+- Contact CTA
+- Booking CTA
+- Enquiry CTA
+
+Make it persuasive and action-oriented.
