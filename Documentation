@@ -1,0 +1,17 @@
+# Prompt Logic
+
+## Objective
+Generate structured and consistent website content using AI.
+
+## Approach
+- Use clear instructions in prompts
+- Define output structure
+- Specify tone and audience
+
+## Why It Works
+- AI performs better with structured prompts
+- Reduces randomness
+- Ensures consistent outputs
+
+## Workflow
+Input → Prompt → AI Generation → Refinement → Output Storage
